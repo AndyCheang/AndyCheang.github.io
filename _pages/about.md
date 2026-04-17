@@ -60,7 +60,7 @@ Prior to this, I was a master’s student at the University of Macau under the s
 Zhaocong Li, Yanming Sun, Shudong Liu, Lidia S. Chao</p>
     <p style="margin: 0 0 8px 0;"><em>EMNLP 2023 Main</em></p>
     <p style="margin: 0;">
-      <a href="https://arxiv.org/pdf/2305.01951">pdf</a> /
+      <a href="https://aclanthology.org/2023.emnlp-main.1007.pdf">pdf</a> /
       <a href="https://huggingface.co/datasets/chiseng-cheang/TempoSum">dataset</a> 
     </p>
   </div>
