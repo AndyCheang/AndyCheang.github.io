@@ -13,3 +13,8 @@ Prior to this, I was a master’s student at the University of Macau under the s
 ## Recent News
 
 - April 2026: Paper accepted at ACL 2026.
+
+## Publications
+
+- **Paper Title**. Author A, Author B, **Your Name**. *ACL 2026*.
+- **Another Paper Title**. Author A, **Your Name**. *EMNLP 2025*.
