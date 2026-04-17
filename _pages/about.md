@@ -10,9 +10,9 @@ redirect_from:
 I am a first-year PhD student in Computer Science at Singapore Management University, where I am supervised by [Prof. Yang Deng](https://dengyang17.github.io/). My current research interests include LLM factuality, reliability, and hallucination detection.
 Prior to this, I was a master’s student at the University of Macau under the supervision of [Prof. Derek Wong](https://www.fst.um.edu.mo/personal/derek-wong/).
 
-## Recent News
+## Research Interests
 
-- April 2026: Paper accepted at ACL 2026.
+- My research focuses on knowledge utilization in large language models. I study how LLMs recall parametric knowledge through their internal representations and behavior, with the goal of better understanding when and why they hallucinate. I am also interested in retrieval-augmented generation (RAG), particularly in improving how LLMs leverage external information effectively and faithfully.
 
 ## Publications
 
