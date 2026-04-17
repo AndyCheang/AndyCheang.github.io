@@ -18,6 +18,22 @@ Prior to this, I was a master’s student at the University of Macau under the s
 
 <div style="display: flex; gap: 16px; align-items: flex-start; margin-bottom: 24px;">
   <div style="flex: 0 0 180px;">
+    <img src="/images/papers/knowledge-recall-vs-truthfulness.png" alt="Paper thumbnail" style="width: 100%; border-radius: 6px;">
+  </div>
+
+  <div style="flex: 1;">
+    <p style="margin: 0 0 8px 0;"><strong>Do LLMs Really Know What They Don’t Know? Internal States Mainly Reflect Knowledge Recall Rather Than Truthfulness</strong></p>
+    <p style="margin: 0 0 8px 0;"><strong>Chi Seng Cheang</strong>, Hou Pong Chan, Wenxuan Zhang, Yang Deng</p>
+    <p style="margin: 0 0 8px 0;"><em>ACL 2026 Findings</em></p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/pdf/2510.09033">pdf</a> /
+      <a href="https://github.com/AndyCheang/knowledge-recall-vs-truthfulness">dataset</a> 
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 16px; align-items: flex-start; margin-bottom: 24px;">
+  <div style="flex: 0 0 180px;">
     <img src="/images/papers/exposing-the-cracks.png" alt="Paper thumbnail" style="width: 100%; border-radius: 6px;">
   </div>
 
@@ -45,7 +61,7 @@ Zhaocong Li, Yanming Sun, Shudong Liu, Lidia S. Chao</p>
     <p style="margin: 0 0 8px 0;"><em>EMNLP 2023 Main</em></p>
     <p style="margin: 0;">
       <a href="https://arxiv.org/pdf/2305.01951">pdf</a> /
-      <a href="https://github.com/NLP2CT/TempoSum">code</a> 
+      <a href="https://github.com/NLP2CT/TempoSum">dataset</a> 
     </p>
   </div>
 </div>
