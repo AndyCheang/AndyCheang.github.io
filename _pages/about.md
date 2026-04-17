@@ -18,17 +18,16 @@ Prior to this, I was a master’s student at the University of Macau under the s
 
 <div style="display: flex; gap: 16px; align-items: flex-start; margin-bottom: 24px;">
   <div style="flex: 0 0 180px;">
-    <img src="/images/papers/temposum.png" alt="Paper thumbnail" style="width: 100%; border-radius: 6px;">
+    <img src="/images/papers/exposing-the-cracks.png" alt="Paper thumbnail" style="width: 100%; border-radius: 6px;">
   </div>
 
   <div style="flex: 1;">
-    <p style="margin: 0 0 8px 0;"><strong>Can LMs Generalize to Future Data? An Empirical Analysis on Text Summarization</strong></p>
-    <p style="margin: 0 0 8px 0;"><strong>Chi Seng Cheang</strong>, Hou Pong Chan, Derek F. Wong, Xuebo Liu,
-Zhaocong Li, Yanming Sun, Shudong Liu, Lidia S. Chao</p>
-    <p style="margin: 0 0 8px 0;"><em>EMNLP 2023 Main</em></p>
+    <p style="margin: 0 0 8px 0;"><strong>Exposing the Cracks: Vulnerabilities of Retrieval-Augmented LLM-based Machine Translation</strong></p>
+    <p style="margin: 0 0 8px 0;">Yanming Sun, Runzhe Zhan, <strong>Chi Seng Cheang</strong>, Han Wu, Xuebo Liu, Yuyao Niu, Fengying Ye, Kaixin Lan, Lidia S. Chao, Derek F. Wong</p>
+    <p style="margin: 0 0 8px 0;"><em>AAAI 2026</em></p>
     <p style="margin: 0;">
-      <a href="https://arxiv.org/pdf/2305.01951">pdf</a> /
-      <a href="(https://github.com/NLP2CT/TempoSum">code</a> /
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/download/40597/44558">pdf</a> /
+      <a href="https://github.com/ymsunny/REAL-MT-Vuln">code</a> 
     </p>
   </div>
 </div>
@@ -46,7 +45,7 @@ Zhaocong Li, Yanming Sun, Shudong Liu, Lidia S. Chao</p>
     <p style="margin: 0 0 8px 0;"><em>EMNLP 2023 Main</em></p>
     <p style="margin: 0;">
       <a href="https://arxiv.org/pdf/2305.01951">pdf</a> /
-      <a href="(https://github.com/NLP2CT/TempoSum">code</a> /
+      <a href="https://github.com/NLP2CT/TempoSum">code</a> 
     </p>
   </div>
 </div>
