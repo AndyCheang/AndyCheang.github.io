@@ -26,7 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Cheang Chi Seng (Andy)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Singapore Management University interested in the factuality, reliability, and hallucination detection of LLMs."
+  # bio              : "PhD student at Singapore Management University interested in the factuality, reliability, and hallucination detection of LLMs."
+  bio              : "PhD student at Singapore Management University"
   location         : "Singapore"
   employer         : "Singapore Management University"
   uri              : # URL
