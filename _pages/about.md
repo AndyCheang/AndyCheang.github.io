@@ -16,5 +16,19 @@ Prior to this, I was a master’s student at the University of Macau under the s
 
 ## Publications
 
-- **Paper Title**. Author A, Author B, **Your Name**. *ACL 2026*.
-- **Another Paper Title**. Author A, **Your Name**. *EMNLP 2025*.
+<div style="display: flex; gap: 16px; align-items: flex-start; margin-bottom: 24px;">
+  <div style="flex: 0 0 180px;">
+    <img src="/images/papers/paper1.png" alt="Paper thumbnail" style="width: 100%; border-radius: 6px;">
+  </div>
+
+  <div style="flex: 1;">
+    <p style="margin: 0 0 8px 0;"><strong>Paper Title Goes Here</strong></p>
+    <p style="margin: 0 0 8px 0;">Author A, Author B, <strong>Your Name</strong></p>
+    <p style="margin: 0 0 8px 0;"><em>ACL 2026</em></p>
+    <p style="margin: 0;">
+      <a href="PDF_LINK">pdf</a> /
+      <a href="CODE_LINK">code</a> /
+      <a href="PROJECT_LINK">project</a>
+    </p>
+  </div>
+</div>
