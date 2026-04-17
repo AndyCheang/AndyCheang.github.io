@@ -27,9 +27,8 @@ Prior to this, I was a master’s student at the University of Macau under the s
 Zhaocong Li, Yanming Sun, Shudong Liu, Lidia S. Chao</p>
     <p style="margin: 0 0 8px 0;"><em>EMNLP 2023 Main</em></p>
     <p style="margin: 0;">
-      <a href="PDF_LINK">pdf</a> /
-      <a href="CODE_LINK">code</a> /
-      <a href="PROJECT_LINK">project</a>
+      <a href="https://arxiv.org/pdf/2305.01951">pdf</a> /
+      <a href="(https://github.com/NLP2CT/TempoSum">code</a> /
     </p>
   </div>
 </div>
