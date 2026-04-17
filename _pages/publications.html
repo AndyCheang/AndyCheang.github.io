@@ -5,32 +5,55 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<div style="display: flex; gap: 16px; align-items: flex-start; margin-bottom: 24px;">
+  <div style="flex: 0 0 180px;">
+    <img src="/images/papers/knowledge-recall-vs-truthfulness.png" alt="Paper thumbnail" style="width: 100%; border-radius: 6px;">
+  </div>
 
-{% include base_path %}
+  <div style="flex: 1;">
+    <p style="margin: 0 0 8px 0;"><strong>Do LLMs Really Know What They Don’t Know? Internal States Mainly Reflect Knowledge Recall Rather Than Truthfulness</strong></p>
+    <p style="margin: 0 0 8px 0;"><strong>Chi Seng Cheang</strong>, Hou Pong Chan, Wenxuan Zhang, Yang Deng</p>
+    <p style="margin: 0 0 8px 0;"><em>ACL 2026 Findings</em></p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/pdf/2510.09033">pdf</a> /
+      <a href="https://github.com/AndyCheang/knowledge-recall-vs-truthfulness">dataset</a> 
+    </p>
+  </div>
+</div>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div style="display: flex; gap: 16px; align-items: flex-start; margin-bottom: 24px;">
+  <div style="flex: 0 0 180px;">
+    <img src="/images/papers/exposing-the-cracks.png" alt="Paper thumbnail" style="width: 100%; border-radius: 6px;">
+  </div>
+
+  <div style="flex: 1;">
+    <p style="margin: 0 0 8px 0;"><strong>Exposing the Cracks: Vulnerabilities of Retrieval-Augmented LLM-based Machine Translation</strong></p>
+    <p style="margin: 0 0 8px 0;">Yanming Sun, Runzhe Zhan, <strong>Chi Seng Cheang</strong>, Han Wu, Xuebo Liu, Yuyao Niu, Fengying Ye, Kaixin Lan, Lidia S. Chao, Derek F. Wong</p>
+    <p style="margin: 0 0 8px 0;"><em>AAAI 2026</em></p>
+    <p style="margin: 0;">
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/download/40597/44558">pdf</a> /
+      <a href="https://github.com/ymsunny/REAL-MT-Vuln">code</a> 
+    </p>
+  </div>
+</div>
+
+
+<div style="display: flex; gap: 16px; align-items: flex-start; margin-bottom: 24px;">
+  <div style="flex: 0 0 180px;">
+    <img src="/images/papers/temposum.png" alt="Paper thumbnail" style="width: 100%; border-radius: 6px;">
+  </div>
+
+  <div style="flex: 1;">
+    <p style="margin: 0 0 8px 0;"><strong>Can LMs Generalize to Future Data? An Empirical Analysis on Text Summarization</strong></p>
+    <p style="margin: 0 0 8px 0;"><strong>Chi Seng Cheang</strong>, Hou Pong Chan, Derek F. Wong, Xuebo Liu,
+Zhaocong Li, Yanming Sun, Shudong Liu, Lidia S. Chao</p>
+    <p style="margin: 0 0 8px 0;"><em>EMNLP 2023 Main</em></p>
+    <p style="margin: 0;">
+      <a href="https://aclanthology.org/2023.emnlp-main.1007.pdf">pdf</a> /
+      <a href="https://huggingface.co/datasets/chiseng-cheang/TempoSum">dataset</a> 
+    </p>
+  </div>
+</div>
 
 
 
