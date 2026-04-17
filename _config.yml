@@ -23,7 +23,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cs-cheang-2025.png"
+  avatar           : "profile.png"
   name             : "Cheang Chi Seng (Andy)"
   pronouns         : # example: "she/her"  
   # bio              : "PhD student at Singapore Management University interested in the factuality, reliability, and hallucination detection of LLMs."
