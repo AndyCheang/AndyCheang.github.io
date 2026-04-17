@@ -62,7 +62,7 @@ I am also interested in **retrieval-augmented generation (RAG)**, especially in 
     <p style="margin: 0 0 8px 0;"><strong>Can LMs Generalize to Future Data? An Empirical Analysis on Text Summarization</strong></p>
     <p style="margin: 0 0 8px 0;"><strong>Chi Seng Cheang</strong>, Hou Pong Chan, Derek F. Wong, Xuebo Liu,
 Zhaocong Li, Yanming Sun, Shudong Liu, Lidia S. Chao</p>
-    <p style="margin: 0 0 8px 0;"><em>EMNLP 2023 Main</em></p>
+    <p style="margin: 0 0 8px 0;"><em>EMNLP 2023</em></p>
     <p style="margin: 0;">
       <a href="https://aclanthology.org/2023.emnlp-main.1007.pdf">pdf</a> /
       <a href="https://huggingface.co/datasets/chiseng-cheang/TempoSum">dataset</a> 
