@@ -18,7 +18,7 @@ Prior to this, I was a master’s student at the University of Macau under the s
 
 <div style="display: flex; gap: 16px; align-items: flex-start; margin-bottom: 24px;">
   <div style="flex: 0 0 180px;">
-    <img src="/images/papers/temposum" alt="Paper thumbnail" style="width: 100%; border-radius: 6px;">
+    <img src="/images/papers/temposum.png" alt="Paper thumbnail" style="width: 100%; border-radius: 6px;">
   </div>
 
   <div style="flex: 1;">
