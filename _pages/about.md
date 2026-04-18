@@ -11,11 +11,6 @@ redirect_from:
 
 Prior to this, I received my master’s degree in Computer Science from the University of Macau, under the supervision of [Prof. Derek Wong](https://www.fst.um.edu.mo/personal/derek-wong/).
 
-## Research Interests
-
-My research focuses on **knowledge utilization in large language models**. In particular, I study how **LLMs recall parametric knowledge** through their *internal representations* and *behavior*, with the goal of understanding **when and why they hallucinate**. 
-
-I am also interested in **retrieval-augmented generation (RAG)**, especially in improving how LLMs leverage **external information** effectively and faithfully.
 
 
 ## Publications
